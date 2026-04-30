@@ -14,7 +14,7 @@ This project demonstrates building a multi-turn AI system using Claude API.
 
 ## Setup
 1. Install requirements
-2. Add your API key in a .env file
+2. Some features require an Anthropic API key. The code structure can still be studied without it.
 3. Run the project
 
 ## Notes
